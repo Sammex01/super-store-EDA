@@ -4,7 +4,7 @@
 
 ## Short Project Overview
 
-This project analyzes sales and profitability across U.S. regions using the Superstore dataset.  
+This project analyzes both sales and profitability across U.S. regions using the Superstore dataset.  
 The analysis focuses on identifying top-performing states, key profit drivers, and underperforming segments across regions.
 
 ---
